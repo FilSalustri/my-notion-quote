@@ -1,4 +1,10 @@
-# Notion Random Quote
+![image](https://github.com/FilSalustri/my-notion-quote/assets/7852355/49789156-e286-4ad4-b33c-ec682bd69df5)# Notion Random Quote
+**THIS IS A WORK IN PROGRESS!!**
+
+I'm trying to modify the [original version](https://github.com/saman/notion-quote) to work better in Google Sites.
+
+**ORIGINAL TEXT BELOW**
+
 This is a widget for [Notion](https://notion.so). You can insert the URL of this repository in an [embed item](https://www.notion.so/help/embed-and-connect-other-apps).
 
 ## Settings
