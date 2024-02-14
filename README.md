@@ -1,4 +1,4 @@
-![image](https://github.com/FilSalustri/my-notion-quote/assets/7852355/49789156-e286-4ad4-b33c-ec682bd69df5)# Notion Random Quote
+# Notion Random Quote
 **THIS IS A WORK IN PROGRESS!!**
 
 I'm trying to modify the [original version](https://github.com/saman/notion-quote) to work better in Google Sites.
